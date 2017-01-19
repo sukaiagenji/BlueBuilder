@@ -7,9 +7,9 @@ Currently there are three commands. bluebuilder, bluecopy, and blueprint.
 # bluebuilder
 Using this command alone will output information. Adding the subcommand list will print all available blueprints.
 # bluecopy
-bluecopy has 3 subcommands. pos1, pos2, create <name>. Use pos1, break or place a block, then pos2, break or place a block, then create <name>. If the name you wish to use is in use, try again.
+bluecopy has 3 subcommands. pos1, pos2, create "name". Use pos1, break or place a block, then pos2, break or place a block, then create "name". If the name you wish to use is in use, try again.
 # blueprint
-The blueprint command has 2 subcommands. start, build <name>. Use start, break or place a block, then build <name>. If the blueprint you want to place is unavailable, nothing will be built.
+The blueprint command has 2 subcommands. start, build "name". Use start, break or place a block, then build "name". If the blueprint you want to place is unavailable, nothing will be built.
 # Sharing Blueprints
 Since all blueprints are saved as text in the blueprints.json file, sharing is as easy as copying the block string, or sharing your blueprints.json file. And you could even build your own blueprints using text, if you so wanted to!!! No need to build a gigantic building block by block in Minecraft anymore!!!
 
